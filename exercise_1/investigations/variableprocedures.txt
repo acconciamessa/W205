@@ -1,0 +1,15 @@
+Most variable procedures: 
+
+The most variable procedures are listed below, calculated by looking at the variance of scores for different procedures across all hospitals. Though the initial items are difficult to interpret, we can see a number of procedures within this top ten that have wide ranges of quality when administered by different hospitals, such thrombolytic therapy and warfarin therapy. 
+
+
+100	781.8813775510204
+95	554.6666666666666
+Head CT results	480.3756938730042
+Thrombolytic Therapy	478.5509595536997
+ED2	476.63968417945705
+Fibrinolytic Therapy Received Within 30 Minutes Of Hospital Arrival	352.6666666666667
+Fibrinolytic Therapy Received Within 30 Minutes of ED Arrival	325.74632352941165
+Healthcare workers given influenza vaccination	268.1836394532999
+Warfarin therapy discharge instructions	266.4446583205718
+Door to diagnostic eval	246.3692590006431

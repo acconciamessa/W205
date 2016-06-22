@@ -1,0 +1,5 @@
+Correlation of patient scores and hospital quality: 
+
+Adding the base and consistency score from the hcahps dataset gives us the total patient survey score on a scale of 0-100. We then correlate this with the hospital quality scores on the same 0-100 scale. We get a correlation of ~0.006, which we can interpret to mean that there is essentially no correlation between patient scores of their hospital experience and the hospital’s assessment of care quality.
+
+0.006248702223419737

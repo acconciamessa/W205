@@ -1,0 +1,15 @@
+Best States: 
+
+The top states by the average score of procedures in their hospitals can be found below. The scores column was adjusted to exclude scores above 100 or given in the form of an unrelated metric (e.g. patient volume). As such, we can see that Maine is the top state, followed by New Hampshire and Nebraska.
+
+
+ME	89.40399325084364
+NH	89.12564505272604
+NE	88.66613055818354
+VT	88.63876991605277
+VA	87.65139068769076
+PR	87.64549785899524
+HI	87.64451772464963
+DE	87.48309178743962
+MT	87.39481427779437
+MD	87.38207774669625
